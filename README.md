@@ -3,7 +3,7 @@
 The included texts are listed in the following table.
 
 | Included texts | Finnish | English | Swedish | Hindi | Tamil
-| -------------- | ------- | ------- | ------- | ----- | Tamil
+| -------------- | ------- | ------- | ------- | ----- | -----
 | [1 Peter 3:18–22](https://rumble.com/vk9z76-1.-piet.-31822.html) | [1piet3-fin.sbv](../main/1piet3-fin.sbv) | [1piet3-eng.sbv](../main/1piet3-eng.sbv) | [1piet3-swe.sbv](../main/1piet3-swe.sbv) | |
 | [Jonah 1, Luke 8:23-24, 23:47-48](https://rumble.com/vktj8h-joona-1.html) | [joona1-fin.sbv](../main/joona1-fin.sbv) | [joona1-eng.sbv](../main/joona1-eng.sbv) | [joona1-swe.sbv](../main/joona1-swe.sbv) | |
 | [Jonah 2, Matthew 12:40, Genesis 2:16–17; 3:15, Romans 6:3–5](https://rumble.com/vktkah-joona-2.html) | [joona2-fin.sbv](../main/joona2-fin.sbv) | [joona2-eng.sbv](../main/joona2-eng.sbv) | [joona2-swe.sbv](../main/joona2-swe.sbv) | |
